@@ -29,6 +29,10 @@ Column Description of the Dataset:
 6) InflationRateCategory:The 'Inflation Rate' column is categorized as high, medium, or low based on predefined thresholds.
 7) Dataset link: https://www.kaggle.com/datasets/sazidthe1/global-inflation-data
 
--- Project Documentation : [Inflation Analysis Documentation.pdf](https://github.com/user-attachments/files/21036681/Inflation.Analysis.Documentation.pdf)
--- project Demo : [Click Here to Check the Demo of Project](https://drive.google.com/file/d/1sueX43qwW5f4y2m1UXndfx2OP5eZz34z/view?usp=drive_link)
+- Project Documentation : [Inflation Analysis Documentation.pdf](https://github.com/user-attachments/files/21036681/Inflation.Analysis.Documentation.pdf)
+  
+- project Demo : [Click Here to Check the Demo of Project](https://drive.google.com/file/d/1sueX43qwW5f4y2m1UXndfx2OP5eZz34z/view?usp=drive_link)
+
+#### © Copyright 2025 - [ARJUN T](https://github.com/ARJUN151503)
+<a href="https://www.linkedin.com/in/arjun-thorlikonda-422b9a256/"> ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
