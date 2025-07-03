@@ -1,0 +1,2 @@
+# Power-BI-Inflation-Analysis-Journeying-Through-Global-Economic-Terrain
+Inflation, a critical economic indicator, profoundly impacts businesses, consumers, and policymakers worldwide. In this scenario, a multinational corporation operating in diverse markets seeks to optimize pricing strategies, mitigate risks, and make informed investment decisions. Leveraging Power BI's analytical prowess, we delve into inflationdata
